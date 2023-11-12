@@ -1,0 +1,118 @@
+{
+	"work": [{
+			"startDate": "2019-07",
+			"position": "Associate Professor for Analysis",
+			"name": "Paris-Lodron University Salzburg"
+		},
+
+		{
+			"startDate": "2015-03",
+			"endDate": "2019-06",
+			"position": "Assistant Professor for Analysis",
+			"name": "Paris-Lodron University Salzburg"
+		},
+
+		{
+			"startDate": "2012-09",
+			"endDate": "2015-02",
+			"position": "Research assistant",
+			"name": "Karlsruhe Institute of Technology"
+		},
+
+		{
+			"startDate": "2011-09",
+			"endDate": "2012-08",
+			"position": "Research Fellow",
+			"name": "University of Warwick"
+		},
+
+		{
+			"startDate": "2010-08",
+			"endDate": "2011-08",
+			"position": "Postdoc",
+			"name": "ETH Zurich"
+		},
+
+		{
+			"startDate": "2008-08",
+			"endDate": "2010-08",
+			"position": "Junior Scientist",
+			"name": "Max Plack Institute for Gravitational Physics (Albert-Einstein Institute) Golm"
+		},
+
+		{
+			"startDate": "2008-04",
+			"endDate": "2008-07",
+			"position": "Scientific assistant",
+			"name": "RWTH Aachen"
+		}
+	],
+
+	"education": [
+    {
+			"startDate": "2008",
+			"institution": "RWTH-Aachen",
+      "studyType": "PhD",
+			"courses": "subject mathematics, subsidiary subject physics"
+		},
+    {
+			"startDate": "2001-04",
+			"endDate": "2004-12",
+      "studyType": "Diplom",
+			"institution": "Rheinische Friedrich-Wilhelms-Universit&auml;t Bonn",
+			"courses": "subject mathematics, subsidiary subject physics"
+		},
+		{
+			"startDate": "1998-10",
+			"endDate": "2001-03",
+      "studyType": "Diplom",
+			"institution": "Technical University Munich",
+			"courses": "subject mathematics, subsidiary subject physics"
+		}
+  ],
+
+	"scholarships": [{
+		"startDate": "05/2005",
+		"endDate": "03/2008",
+		"name": "Scholarship of the German Science Foundation at the research training center no. 775 Hierarchie und Symmetrien in mathematischen Modellen "
+	}],
+
+	"awards": [
+		{
+			"title": "Borchers Plakette",
+			"date": "2009",
+			"awarder": "RWTH Aachen",
+			"summary": "Prize for excellent phd thesis'"
+		}
+	],
+	"grants": [
+		{
+			"date": "2016",
+			"name": "Gradient Flows of Curvature Energies",
+			"type": "FWF single project",
+			"amount": "341 454 Euro"
+		},
+		{
+			"date": "2013",
+			"name": "Summer School on Modern Knot Theory: Aspects in Algebra, Analysis, Biology, and Physics",
+			"type": "Volkswagen Foundation",
+			"amount": "82 200 Euro"
+		},
+		{
+			"date": "2014",
+			"name": "International Exploratory Workshop: Workshop on Knots in Theory and the Science",
+			"type": "SSF",
+			"amount": "19800 CHF"
+		}
+	],
+
+	"languages": [{
+			"language": "German",
+			"fluency": "Native speaker"
+		},
+		{
+			"language": "English",
+			"fluency": ""
+		}
+	]
+}
