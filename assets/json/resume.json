@@ -87,6 +87,12 @@
 	],
 	"grants": [
 		{
+			"date": "2024",
+			"name": "Analysis of Multi-Phase Vesicles and Membranes",
+			"type": "FWF single project",
+			"amount": "428.159 Euro"
+		},
+		{
 			"date": "2016",
 			"name": "Gradient Flows of Curvature Energies",
 			"type": "FWF single project",
